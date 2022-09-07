@@ -1,4 +1,3 @@
-import './App.css';
 import { SketchPicker } from 'react-color';
 import { useState } from "react";
 
